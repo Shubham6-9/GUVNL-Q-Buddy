@@ -35,5 +35,7 @@ Q-Buddy is a **Queue Management System** developed for **GUVNL** to streamline c
 ## 📦 Installation & Setup
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/guvnl-q-buddy.git
-cd guvnl-q-buddy
+git clone https://github.com/Shubham6-9/GUVNL-Q-Buddy.git
+cd GUVNL-Q-Buddy
+npm install
+npm run dev
